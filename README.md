@@ -1,6 +1,6 @@
 <div align="center">
-    <h1> Graph Clustering via Similarity-Aware Embeddings (GCSAE)</h1>
-    <h3>Deep graph clustering via RBF-Optimized embeddings with self-supervised learning</h3>
+    <h1>GCLUSE: A novel deep graph clustering approach with similarity
+aware embeddings</h1>
 </div>
 
 
@@ -23,8 +23,6 @@
 pip install -r requirements.txt
 ```
 
-# Model
-![framework](DGCSSR_architecture.pdf)
 
 # Reproduction
 
